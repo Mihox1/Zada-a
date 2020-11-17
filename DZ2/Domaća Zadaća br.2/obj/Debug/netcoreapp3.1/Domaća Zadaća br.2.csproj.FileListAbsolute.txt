@@ -1,0 +1,13 @@
+C:\Users\mihov\source\repos\Domaća Zadaća br.2\Domaća Zadaća br.2\obj\Debug\netcoreapp3.1\Domaća Zadaća br.2.csprojAssemblyReference.cache
+C:\Users\mihov\source\repos\Domaća Zadaća br.2\Domaća Zadaća br.2\obj\Debug\netcoreapp3.1\Domaća Zadaća br.2.AssemblyInfoInputs.cache
+C:\Users\mihov\source\repos\Domaća Zadaća br.2\Domaća Zadaća br.2\obj\Debug\netcoreapp3.1\Domaća Zadaća br.2.AssemblyInfo.cs
+C:\Users\mihov\source\repos\Domaća Zadaća br.2\Domaća Zadaća br.2\obj\Debug\netcoreapp3.1\Domaća Zadaća br.2.csproj.CoreCompileInputs.cache
+C:\Users\mihov\source\repos\Domaća Zadaća br.2\Domaća Zadaća br.2\bin\Debug\netcoreapp3.1\Domaća Zadaća br.2.exe
+C:\Users\mihov\source\repos\Domaća Zadaća br.2\Domaća Zadaća br.2\bin\Debug\netcoreapp3.1\Domaća Zadaća br.2.deps.json
+C:\Users\mihov\source\repos\Domaća Zadaća br.2\Domaća Zadaća br.2\bin\Debug\netcoreapp3.1\Domaća Zadaća br.2.runtimeconfig.json
+C:\Users\mihov\source\repos\Domaća Zadaća br.2\Domaća Zadaća br.2\bin\Debug\netcoreapp3.1\Domaća Zadaća br.2.runtimeconfig.dev.json
+C:\Users\mihov\source\repos\Domaća Zadaća br.2\Domaća Zadaća br.2\bin\Debug\netcoreapp3.1\Domaća Zadaća br.2.dll
+C:\Users\mihov\source\repos\Domaća Zadaća br.2\Domaća Zadaća br.2\bin\Debug\netcoreapp3.1\Domaća Zadaća br.2.pdb
+C:\Users\mihov\source\repos\Domaća Zadaća br.2\Domaća Zadaća br.2\obj\Debug\netcoreapp3.1\Domaća Zadaća br.2.dll
+C:\Users\mihov\source\repos\Domaća Zadaća br.2\Domaća Zadaća br.2\obj\Debug\netcoreapp3.1\Domaća Zadaća br.2.pdb
+C:\Users\mihov\source\repos\Domaća Zadaća br.2\Domaća Zadaća br.2\obj\Debug\netcoreapp3.1\Domaća Zadaća br.2.genruntimeconfig.cache
